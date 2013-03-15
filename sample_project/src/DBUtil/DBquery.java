@@ -1,4 +1,4 @@
-package com.rapidus.urlread.DBUtil;
+package com.rapidus.urlread.DBUtil; 
 
 import java.io.FileInputStream;
 import java.sql.Connection;
