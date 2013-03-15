@@ -1,3 +1,4 @@
+//http://javaprogramming.language-tutorial.com/2012/10/password-encryption-decryption-using.html
 package nextFriday;
 
 import javax.crypto.*;
