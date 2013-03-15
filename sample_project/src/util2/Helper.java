@@ -1,4 +1,5 @@
 //http://javaprogramming.language-tutorial.com/2012/10/password-encryption-decryption-using.html
+//http://examples.javacodegeeks.com/core-java/crypto/encrypt-decrypt-with-des-using-pass-phrase/
 package nextFriday;
 
 import javax.crypto.*;
